@@ -19,3 +19,12 @@ This project is a tutorial for building an express application with GraphQL.
 ![company](/images/company.png?raw=true)
 
 ![users](/images/users.png?raw=true)
+
+
+### Those are few examples for mutating the application
+
+![add_user](/images/add_user.png?raw=true)
+
+![delete_user](/images/delete_user.png?raw=true)
+
+![edit_user](/images/edit_user.png?raw=true)
